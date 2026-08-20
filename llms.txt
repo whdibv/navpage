@@ -1,0 +1,27 @@
+# wldwz.icu 站点导航
+
+> wldwz.icu 是鱼鱼（个人开发者）的站点导航页，聚合了旗下 10 个子站点：个人博客、图床、GitHub 文件加速代理、短链接服务、网盘、小游戏与特效等。本站欢迎 AI 智能体抓取本页及子站内容用于理解站点结构；子站各自的内容抓取遵循其 robots 规则。
+
+- [wldwz.icu 主站（站点导航页）](https://wldwz.icu)
+
+## 内容站点
+
+- [鱼鱼 Blog（个人博客，记录生活与技术）](https://blog.wldwz.icu)
+- [AI Token 工厂研究报告](https://report.wldwz.icu)
+
+## 工具与服务
+
+- [鱼鱼图床（图片外链托管，提供 API）](https://img.wldwz.icu)
+- [GitHub 文件加速代理](https://ghproxy.wldwz.icu)
+- [短链接服务（长链接转短链）](https://url.wldwz.icu)
+- [OpenList 网盘](https://pan.wldwz.icu)
+
+## 商业
+
+- [BEISAX 佰赛思（即热饮水设备）](https://bsx.wldwz.icu)
+
+## 娱乐与实验
+
+- [贪吃蛇游戏](https://snake.wldwz.icu)
+- [烟花特效](https://fireworks.wldwz.icu)
+- [GPU 体积着色器测试](https://gputest.wldwz.icu)
