@@ -1,0 +1,55 @@
+{
+    "title": "wldwz.icu 站点导航",
+    "subtitle": "鱼鱼的所有站点，从这里出发",
+    "logo": "https://img.wldwz.icu/imgs/2026/08/cd6a9f52e4309408.png",
+    "sites": [
+        {
+            "name": "鱼鱼 Blog",
+            "desc": "个人博客 · 生活记录 · 小玩意",
+            "url": "https://blog.wldwz.icu",
+            "icon": "blog"
+        },
+        {
+            "name": "BEISAX 佰赛思",
+            "desc": "即热饮水 · 健康生活",
+            "url": "https://bsx.wldwz.icu",
+            "icon": "shop"
+        },
+        {
+            "name": "鱼鱼图床",
+            "desc": "图片托管 · 外链 · API",
+            "url": "https://img.wldwz.icu",
+            "icon": "img"
+        },
+        {
+            "name": "GitHub 加速",
+            "desc": "GitHub 文件下载加速代理",
+            "url": "https://ghproxy.wldwz.icu",
+            "icon": "gh"
+        },
+        {
+            "name": "OpenList 网盘",
+            "desc": "文件列表 · 分享",
+            "url": "https://pan.wldwz.icu",
+            "icon": "pan"
+        },
+        {
+            "name": "贪吃蛇",
+            "desc": "经典小游戏",
+            "url": "https://snake.wldwz.icu",
+            "icon": "snake"
+        },
+        {
+            "name": "烟花",
+            "desc": "烟花特效",
+            "url": "https://fireworks.wldwz.icu",
+            "icon": "fw"
+        },
+        {
+            "name": "GPU 测试",
+            "desc": "体积着色器性能测试",
+            "url": "https://gputest.wldwz.icu",
+            "icon": "gpu"
+        }
+    ]
+}
