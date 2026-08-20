@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin.php
+Disallow: /admin_config.php
+Disallow: /nav.json
+
+Sitemap: https://wldwz.icu/sitemap.php
